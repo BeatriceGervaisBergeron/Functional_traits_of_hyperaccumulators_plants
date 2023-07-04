@@ -1,4 +1,4 @@
-# Hyperaccumulators functional traits, an international sampling campaign
+# Functional traits of hyperaccumulator plants, an international sampling campaign
 
 This is a platform to get all the essential information to measure the functional traits of hyperaccumulators, according to the article; Trace element hyperaccumulator plant traits: a call for trait data collection (DOI:10.1007/s11104-023-05996-7)
 
